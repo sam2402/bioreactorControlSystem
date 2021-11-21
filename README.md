@@ -15,6 +15,6 @@ https://youtu.be/0RML-l0z9cI
 ##### My role in this project
 - I was mainly responsible for the UI which you can see in the uiMac.py and ArduinoCode/ui.py files.
 - I was also heavily involved in the communication over the serial port between the Ardunio and Python files.
-- I also had to fully understand the code written in the sketch.ino file to proud documentation.
+- I also had to fully understand the code written in the sketch.ino file to prouduce documentation.
     
 
